@@ -64,7 +64,7 @@ or http://127.0.0.1:8810/?token=eea035f243b266709c7db768097a52a203d4c84f0eb487b3
 >  ssh -N -L 8810:fullhostname:8810 userid@fullhostname
 enter password
 2. open in local browser
-> http://localhost:8810/?token=eea035f243b266709c7db768097a52a203d4c84f0eb487b3
+http://localhost:8810/?token=eea035f243b266709c7db768097a52a203d4c84f0eb487b3
 
 ## create new kernel on jupyter notebook
 by default installing anaconda, ipykernel was installed
