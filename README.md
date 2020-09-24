@@ -62,6 +62,7 @@ To access the notebook, open this file in a browser:
 ## create tunneling to access jupyter notebook on server or remotely
 1. open previous jupyter notebook remotely using localhost and port 8810
 >  ssh -N -L 8810:fullhostname:8810 userid@fullhostname
+
 enter password
 2. open in local browser
 http://localhost:8810/?token=eea035f243b266709c7db768097a52a203d4c84f0eb487b3
