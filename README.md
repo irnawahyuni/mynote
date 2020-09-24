@@ -57,7 +57,7 @@ by default jupyter notebook run on port 8888
 > jupyter-notebook --ip=fullhostname --no-browser --port 8810
 To access the notebook, open this file in a browser:
         http://fullhostname:8810/?token=eea035f243b266709c7db768097a52a203d4c84f0eb487b3
-or http://127.0.0.1:8810/?token=eea035f243b266709c7db768097a52a203d4c84f0eb487b3
+        or http://127.0.0.1:8810/?token=eea035f243b266709c7db768097a52a203d4c84f0eb487b3
 
 ## create tunneling to access jupyter notebook on server or remotely
 1. open previous jupyter notebook remotely using localhost and port 8810
