@@ -78,3 +78,10 @@ python -m ipykernel install --user --name=ENV_NAME
 4. remove unwanted kernel
 > jupyter kernelspec uninstall kernelname
 
+#Saving and loading environments
+1. saving
+conda env export > environment.yaml
+
+2. create env
+conda env create -f environment.yaml
+
